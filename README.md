@@ -1,1 +1,3 @@
 # martini_programming_test
+
+The functions for the two problems can be found in the main.py file. Function 1 is min_paint(), which describes how one is able to find the minimum number of houses that need to be painted in order for the row to be considered appealing. There are comments at each step describing what the use of the code is. Fucntion 2 is min_square(), which gives the minimum length of the square. Similarly, there are comments describing my approach. My converted dataset for the 2nd question is a set of tuples, each tuple containing the (row, col) of a value of "X".
